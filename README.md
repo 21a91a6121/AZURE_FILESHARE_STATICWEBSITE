@@ -3,6 +3,9 @@
 Project Title: Azure FileShare and Static Website 
 
 FILE SHARE:
+
+![image](https://github.com/21a91a6121/AZURE_FILESHARE_STATICWEBSITE/assets/98638809/83fa197b-b916-48b1-bce2-5eea8afaeb37)
+
 Introduction:
 This project harnesses Azure technology to establish a robust file-sharing system among three Linux virtual machines via the Azure portal. We began by creating a storage account, followed by setting up a file share within it. After that, we sequentially deployed three Linux virtual machines, ensuring access to the shared file storage.
 
@@ -22,6 +25,8 @@ Conclusion:
 In summary, our project effectively showcased the potential of Azure technology for creating a streamlined and reliable file-sharing ecosystem among Linux virtual machines. The ability to instantaneously share and synchronize files across VMs underscores the practicality of Azure services in enhancing collaborative projects, while the scalability and reliability ensure a robust foundation for future growth and success.
       
 STATIC WEBSITE:
+
+![image](https://github.com/21a91a6121/AZURE_FILESHARE_STATICWEBSITE/assets/98638809/ac0f5e31-1306-4a65-8fd1-b203e14f3ddd)
 
 Title: Azure Static Website Deployment
 
